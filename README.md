@@ -1,6 +1,11 @@
 # Mapy Polski do użytku w Power BI
 Granice Polski gotowe do użytku w Power BI / Power BI ready files of Polish boundaries
 
+### Warunki użytkowania:
+Wszystkie te dane są publicznie dostępne a moja praca polegała wyłącznie na dostosowaniu pliku.<br>
+Bierz i korzystaj ku chwale ojczyzny :) Pamiętaj, że te dane mają charakter jedynie poglądowy i nie mają żadnej mocy prawnej.<br>
+Będzie mi miło jeśli oznaczysz źródło, ale nie jest to wymagane.<br>
+
 ### Zobacz też
 Mapy dzielnic polskich miast dostosowane do użytku w Power BI - <a href="https://github.com/jusjag/dzielnice-json-power-bi/tree/main">link</a>.
 
@@ -24,9 +29,12 @@ Data dostępu: 10.11.2023<br>
 6. Zaznacz mapę, w panelu "Format" przejdź do "Map settings" i rozwiń listę pod "Map type".<br><br>
 ![alt text](https://github.com/jusjag/dzielnice-json-power-bi/blob/main/HowTo2.png?raw=true)<br>
 8. Na samym dole listy znajduje się pozycja "Custom map".
-9. Po wybraniu tej opcji poniżej pojawi się pole "add a map type" z opcją załadowania pliku.
-10. Załaduj plik pobrany na początku.
-11. Upewnij się, że nazwy jednostek są w polu "Location" (czasem automatycznie ładują się jako "Legend").<br>
+
+# Uwagi
+Choć zakładam, że zamieszczone dane są poprawne, szczególnie że opieram się na źródłach rządowych, nie odpowiadam za ich zgodność ze stanem rzeczywistym.
+10. Po wybraniu tej opcji poniżej pojawi się pole "add a map type" z opcją załadowania pliku.
+11. Załaduj plik pobrany na początku.
+12. Upewnij się, że nazwy jednostek są w polu "Location" (czasem automatycznie ładują się jako "Legend").<br>
 ![alt text](https://github.com/jusjag/dzielnice-json-power-bi/blob/main/HowTo3.png?raw=true)<br>
 13. Voila!
 14. W panelu "Build visual" pojawi się pole "Color saturation", którego możesz użyć by zróżnicować kolory.
