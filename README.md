@@ -4,6 +4,17 @@ Granice Polski gotowe do użytku w Power BI / Power BI ready files of Polish bou
 ### Zobacz też
 Mapy dzielnic polskich miast dostosowane do użytku w Power BI - <a href="https://github.com/jusjag/dzielnice-json-power-bi/tree/main">link</a>.
 
+## Gdanice Województw
+<a href="https://github.com/jusjag/polska-granice-json-power-bi/blob/main/Polska_wojewodztwa.json">POBIERZ</a><br>
+![alt text](https://github.com/jusjag/polska-granice-json-power-bi/blob/main/PL-wojewodztwa.png?raw=true)<br>
+<br>ŹRÓDŁO: Państwowy Rejestr Granic (https://dane.gov.pl/pl/dataset/726,panstwowy-rejestr-granic-i-powierzchni-jednostek-podziaow-terytorialnych-kraju/resource/29515/table)<br>
+Data dostępu: 10.11.2023<br>
+
+# Miasta i gminy
+<a href="https://github.com/jusjag/polska-granice-json-power-bi/blob/main/Polska_miasta_gminy.json">POBIERZ</a><br>
+<br>ŹRÓDŁO: Państwowy Rejestr Granic (https://dane.gov.pl/pl/dataset/726,panstwowy-rejestr-granic-i-powierzchni-jednostek-podziaow-terytorialnych-kraju/resource/29515/table)<br>
+Data dostępu: 10.11.2023<br>
+
 # Jak używać?
 1. Pobierz wybrany plik.
 2. Upewnij się, że Twoje dane zawierają kolumnę z nazwami jednostek (dzielnic/województw/itp) (do pobrania np. z Wikipedii przez Power Query).
@@ -19,9 +30,3 @@ Mapy dzielnic polskich miast dostosowane do użytku w Power BI - <a href="https:
 ![alt text](https://github.com/jusjag/dzielnice-json-power-bi/blob/main/HowTo3.png?raw=true)<br>
 13. Voila!
 14. W panelu "Build visual" pojawi się pole "Color saturation", którego możesz użyć by zróżnicować kolory.
-
-## Gdanice Województw
-<a href="https://github.com/jusjag/polska-granice-json-power-bi/blob/main/Polska_wojewodztwa.json">POBIERZ</a><br>
-![alt text](https://github.com/jusjag/polska-granice-json-power-bi/blob/main/PL-wojewodztwa.png?raw=true)<br>
-<br>ŹRÓDŁO: Państwowy Rejestr Granic (https://dane.gov.pl/pl/dataset/726,panstwowy-rejestr-granic-i-powierzchni-jednostek-podziaow-terytorialnych-kraju/resource/29515/table)<br>
-Data dostępu: 10.11.2023<br>
